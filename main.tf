@@ -1,5 +1,5 @@
 locals {
-  pet_count = 4
+  pet_count = 5
 }
 
 resource "random_pet" "main" {
