@@ -1,3 +1,3 @@
 output "pet_ids" {
-    value = random_pet.main[*].id
+  value = random_pet.main[*].id
 }
